@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name Cn4805_SSR)(type Legacy)(uri H:/MART/BSPD/KiCad/T1/test1/Cn4805_SSR/Cn4805_SSR.lib)(options "")(descr ""))
-  (lib (name BSPD_v_1_1-rescue)(type Legacy)(uri ${KIPRJMOD}/BSPD_v_1_1-rescue.lib)(options "")(descr ""))
-)
